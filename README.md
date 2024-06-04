@@ -1,3 +1,3 @@
 <pre>
-https://indihomekarimun.netlify.app/
+https://karimun.netlify.app/
 </pre>
